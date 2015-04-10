@@ -399,8 +399,8 @@ extern const prog_uint8_t chr_res_special_characters[] PROGMEM;
 #define STR_RES_COMPARE 281  // compare
 #define STR_RES_ 282  // ----
 #define STR_RES_V 283  // v
-#define STR_RES_MUTABLE____V1_01 284  // mutable    v1.01
-#define STR_RES_INSTRUMENTS_671 285  // instruments -1
+#define STR_RES_SILVAN____V1_01 284  // silvan    v1.01
+#define STR_RES_SYNTHESIS_671 285  // synthesis -1
 #define STR_RES_SHRUTHI_CLASSIC 286  // shruthi classic
 #define STR_RES_4_KNOBS 287  // (4 knobs)
 #define STR_RES_SHRUTHI_XT 288  // shruthi xt
